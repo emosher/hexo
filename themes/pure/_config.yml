@@ -26,4 +26,4 @@ gplus: # google+ id, don't forget symbol "+", example: +周一
 twitter: emoshmosh # username, example: saintwinkle
 
 # google analytics, example: UA-12345678-1
-google_analytics:
+google_analytics: UA-49958928-1
